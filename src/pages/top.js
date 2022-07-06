@@ -12,7 +12,7 @@ export default function Top() {
       preload="auto"
       style={{ width: "100%", height: "100%" }}
       src="/assets/videos/55-Tv-1July.mp4"
-      type='video/mp4; codecs="avc1.4d002a"'
+      type="video/mp4"
     />
   );
 }
